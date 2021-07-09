@@ -1,1 +1,1 @@
-print ("Tanapat Charunworaphan")
+print ("Tanapat")
