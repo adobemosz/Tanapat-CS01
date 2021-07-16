@@ -1,4 +1,3 @@
-a = int(input('A =5'))
+a = int(input('A ='))
 if(a < 10):
     print('Yes')
-
