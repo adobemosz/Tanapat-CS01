@@ -1,8 +1,6 @@
 n = int(input())
-t = []
+m = []
 for i in range(n):
-    t.append(int(input()))
-x=min(t)
-z=max(t)
-print(x)
-print(z)
+    m.append(int(input()))
+print(min(m))
+print(max(m))
