@@ -1,11 +1,6 @@
-n = int(input("Enter your score"))
-i = n 
+i = int(input("Enter your score"))
 while (i > -1):
-    i += 10
     print(i)
-    break
+    i = int(input("Enter your score"))
     if i == -1:
         break
-
-
-
