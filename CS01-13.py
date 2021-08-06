@@ -1,6 +1,11 @@
-n = int(input("Enter your num"))
-m = []
-for i in range(n):
-    m.append(int(input()))
-print(min(m))
-print(max(m))
+n = int(input("Enter your score"))
+i = n 
+while (i > -1):
+    i += 10
+    print(i)
+    break
+    if i == -1:
+        break
+
+
+
